@@ -1,2 +1,4 @@
+CSCI[[:space:]]531[[:space:]]Final[[:space:]]report.pdf filter=lfs diff=lfs merge=lfs -text
+secure-decentralized-audit-system.mp4 filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
